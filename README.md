@@ -1,24 +1,21 @@
 <div align="center">
 
-<div align="center">
-
 <img src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" alt="Cybersecurity animation" width="75%"/>  
 
-# 👨‍💻 Eng. Adam  
-💻 Full Stack Developer | 🔐 Cybersecurity & Digital Forensics Specialist | 🧬 Bioinformatics Explorer | 🎨 Creative Designer  
+# 👨‍💻 Eng. Adam El Nakhlawy  
+💻 Full Stack Developer | 🔐 Cybersecurity & Digital Forensics Engineer | 🤖 AI Enthusiast  
 
 </div>
 
 ---
 
 ## 🧑‍💻 About Me  
-- 🌐 **Full Stack Developer** (Frontend + Backend).  
-- 🔐 Skilled in **Cybersecurity, Digital Forensics & Ethical Hacking**.  
-- 🧬 Exploring **Bioinformatics / Polyinformatics**.  
-- 🛰️ Interested in **AI, Data Security & Industry 4.0 Technologies**.  
-- 🎥 Experienced in **Video Editing & Content Creation**.  
-- 🎨 Skilled in **Graphic Design & UI/UX**.  
-- ⚡ Motto: *"Securing the digital world while creating the future."*  
+- 👨‍🎓 I’m **Adam El Nakhlawy**, Cybersecurity Engineer & Digital Forensics Specialist.  
+- 🌐 Skilled in **Full Stack Development** (Frontend + Backend).  
+- 🔐 Passionate about **Cybersecurity, Digital Forensics & Ethical Hacking**.  
+- 🤖 Interested in **Artificial Intelligence & Machine Learning**.  
+- 🎨 Experienced in **Graphic Design, UI/UX & Video Editing**.  
+- 📚 Always learning & exploring **next-gen technologies**.  
 
 ---
 
@@ -48,11 +45,11 @@
 
 ---
 
-### 🧬 Bioinformatics  
+### 🤖 Artificial Intelligence  
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)  
-![R](https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white)  
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)  
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)  
 ![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)  
-![Biopython](https://img.shields.io/badge/Biopython-009688?style=for-the-badge&logo=python&logoColor=white)  
 
 ---
 
@@ -86,6 +83,6 @@
 
 <div align="center">
 
-⚡ *"Digital Forensics & Cybersecurity — protecting tomorrow, today."* ⚡  
+⚡ *"Cybersecurity & AI — Securing the future with intelligence."* ⚡  
 
 </div>
