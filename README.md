@@ -1,9 +1,11 @@
 <div align="center">
 
-<img src="https://media.giphy.com/media/3o7aCTfyhYawdOXcFW/giphy.gif" alt="Cybersecurity animation" width="70%"/>  
+<div align="center">
 
-# 👋 Hi, I’m Eng. Adam  
-💻 Full Stack Developer | 🔐 Cybersecurity Enthusiast | 🧬 Bioinformatics Explorer | 🎨 Creative Designer  
+<img src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" alt="Cybersecurity animation" width="75%"/>  
+
+# 👨‍💻 Eng. Adam  
+💻 Full Stack Developer | 🔐 Cybersecurity & Digital Forensics Specialist | 🧬 Bioinformatics Explorer | 🎨 Creative Designer  
 
 </div>
 
@@ -11,11 +13,12 @@
 
 ## 🧑‍💻 About Me  
 - 🌐 **Full Stack Developer** (Frontend + Backend).  
-- 🔐 Passionate about **Cybersecurity** (Pentesting • Ethical Hacking • Networking).  
+- 🔐 Skilled in **Cybersecurity, Digital Forensics & Ethical Hacking**.  
 - 🧬 Exploring **Bioinformatics / Polyinformatics**.  
-- 🎥 Experienced in **Video Editing** & **Content Creation**.  
-- 🎨 Skilled in **Graphic Design**.  
-- 🚀 Always learning and building projects that connect **tech + creativity**.  
+- 🛰️ Interested in **AI, Data Security & Industry 4.0 Technologies**.  
+- 🎥 Experienced in **Video Editing & Content Creation**.  
+- 🎨 Skilled in **Graphic Design & UI/UX**.  
+- ⚡ Motto: *"Securing the digital world while creating the future."*  
 
 ---
 
@@ -31,16 +34,27 @@
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)  
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)  
 
-### 🔐 Cybersecurity  
+---
+
+### 🔐 Cybersecurity & Digital Forensics  
 ![Kali Linux](https://img.shields.io/badge/Kali%20Linux-557C94?style=for-the-badge&logo=kalilinux&logoColor=white)  
 ![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white)  
 ![Burp Suite](https://img.shields.io/badge/Burp%20Suite-FF6F00?style=for-the-badge&logo=burpsuite&logoColor=white)  
 ![Metasploit](https://img.shields.io/badge/Metasploit-2E8B57?style=for-the-badge&logo=metasploit&logoColor=white)  
+![Autopsy](https://img.shields.io/badge/Autopsy-1E90FF?style=for-the-badge&logo=forensics&logoColor=white)  
+![Volatility](https://img.shields.io/badge/Volatility-FF4500?style=for-the-badge&logo=memory&logoColor=white)  
+![Splunk](https://img.shields.io/badge/Splunk-000000?style=for-the-badge&logo=splunk&logoColor=white)  
+![ELK Stack](https://img.shields.io/badge/ELK%20Stack-005571?style=for-the-badge&logo=elasticstack&logoColor=white)  
+
+---
 
 ### 🧬 Bioinformatics  
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)  
 ![R](https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white)  
 ![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)  
+![Biopython](https://img.shields.io/badge/Biopython-009688?style=for-the-badge&logo=python&logoColor=white)  
+
+---
 
 ### 🎨 Design & Editing  
 ![Adobe Photoshop](https://img.shields.io/badge/Photoshop-31A8FF?style=for-the-badge&logo=adobephotoshop&logoColor=white)  
@@ -54,9 +68,9 @@
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=radical" width="49%"/>  
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_GITHUB_USERNAME&theme=radical" width="49%"/>  
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=radical" width="45%"/>  
+<img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=chartreuse-dark" width="49%"/>  
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_GITHUB_USERNAME&theme=chartreuse-dark" width="49%"/>  
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=chartreuse-dark" width="45%"/>  
 
 </div>
 
@@ -72,6 +86,6 @@
 
 <div align="center">
 
-⚡ *"Security + Creativity = Endless Possibilities."* ⚡  
+⚡ *"Digital Forensics & Cybersecurity — protecting tomorrow, today."* ⚡  
 
 </div>
